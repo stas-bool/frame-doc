@@ -8,8 +8,22 @@
 Например `!сбор сгк 01.06-20:00 Заметка`<br>
 ## Справка
 Если нажать на <img src="./images/question.png" style="width: 1em; height: 1em;"> то личным сообщением будет отправлена справка:<br><br>
-<a href="./images/sbor-help.png" target="_blank"><img src="./images/sbor-help.png"></a>
+<div class="text-center">
+	<figure class="figure">
+		<a href="./images/sbor-help.png" target="_blank">
+			<img src="./images/sbor-help.png" class="figure-img img-fluid rounded" alt="sbor-help">
+		</a>
+		<figcaption class="figure-caption text-center">Справка по кнопкам сбора</figcaption>
+	</figure>
+</div>
 
 ## Напоминание
 За 15 минут до начала рейда бот присылает напоминание:<br><br>
-<a href="./images/raid-remind.png" target="_blank"><img src="./images/raid-remind.png"></a>
+<div class="text-center">
+	<figure class="figure">
+		<a href="./images/raid-remind.png" target="_blank">
+			<img src="./images/raid-remind.png" class="figure-img img-fluid rounded" alt="raid-remind">
+		</a>
+		<figcaption class="figure-caption text-center">Напоминание</figcaption>
+	</figure>
+</div>

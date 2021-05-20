@@ -1,12 +1,26 @@
 # Таблица участников
 После регистрации человек попадает в таблицу. Например:
 
-<a href="./images/short-table.png" target="_blank"><img src="./images/short-table.png"></a>
+<div class="text-center">
+	<figure class="figure">
+		<a href="./images/short-table.png" target="_blank">
+			<img src="./images/short-table.png" class="figure-img img-fluid rounded" alt="short-table">
+		</a>
+		<figcaption class="figure-caption text-center">Таблица сервера</figcaption>
+	</figure>
+</div>
 
 Администраторы выделены серым цветом.
 По клику на строку таблицы доступна подробная информация:
 
-<a href="./images/table.png" target="_blank"><img src="./images/table.png"></a>
+<div class="text-center">
+	<figure class="figure">
+		<a href="./images/table.png" target="_blank">
+			<img src="./images/table.png" class="figure-img img-fluid rounded" alt="details-table">
+		</a>
+		<figcaption class="figure-caption text-center">Подробная информация</figcaption>
+	</figure>
+</div>
 
 1. Статистика клана
 2. Ссылка на страницу DestinyTracker. Указывается при регистрации

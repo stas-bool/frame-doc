@@ -3,4 +3,9 @@ authors = ["Stanislav B."]
 language = "ru"
 multilingual = false
 src = "src"
-title = "GFM Frame"
+
+[output.html]
+default-theme = "light"
+
+[output.html.print]
+enable = false
