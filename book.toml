@@ -1,0 +1,6 @@
+[book]
+authors = ["Stanislav B."]
+language = "ru"
+multilingual = false
+src = "src"
+title = "GFM Frame"
