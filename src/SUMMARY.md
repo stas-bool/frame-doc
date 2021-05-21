@@ -10,7 +10,6 @@
 - [Отслеживание кланов Bungie](./bungie-clans.md)
 - [Раздача ролей](./role-rules.md)
 ***
-[FAQ](./faq.md)
-[TODO](./todo.md)
-[Известные ошибки](./known-errors.md)
-[Сервер техподдержки](https://discord.gg/26wETMg4ek)
+[FAQ](./faq.md)  
+[TODO](./todo.md)  
+[Известные ошибки](./known-errors.md)  
