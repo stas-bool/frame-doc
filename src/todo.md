@@ -2,7 +2,12 @@
 
 На данный момент в планах следующие функции:
 ***
-<input type="checkbox" disabled="true"> Логирование событий в канал<br>
-<input type="checkbox" disabled="true"> Настройка упоминания, префикса и т. д. на сайте.<br>
+<label>
+<input type="checkbox" disabled>
+</label> Логирование событий в канал<br>
+<label>
+<input type="checkbox" disabled>
+</label> Настройка упоминания, префикса и т. д. на сайте.<br>
+
 ***
 Если у тебя есть вопросы, проблемы, идеи или пожелания связанные с ботом, пожалуйста, сообщи через эту [форму](https://frame.vg/contact) или заходи на сервер поддержки в [Discord](https://discord.gg/26wETMg4ek).
