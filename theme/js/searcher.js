@@ -257,14 +257,8 @@ window.search = window.search || {};
         search_options = config.search_options;
         searchbar_outer = config.searchbar_outer;
         doc_urls = config.doc_urls;
-        // searchindex = elasticlunr.Index.load(config.index);
-        // searchindex.use(elasticlunr.ru);
-        var elunr = elasticlunr(function () {
-            this.use(elasticlunr.ru);
-        });
-        searchindex = elunr.Index.load(config.index)
-        // console.log(searchindex);
-        // searchindex.load(config.index);
+        searchindex = elasticlunr.Index.load(config.index);
+        searchindex.use(elasticlunr.multiLanguage('en', 'ru'));
 
         // Set up events
         searchicon.addEventListener('click', function(e) { searchIconClickHandler(); }, false);

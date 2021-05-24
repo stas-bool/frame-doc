@@ -15,6 +15,7 @@ enable = true
 additional-js = [
     "theme/js/elasticlunr.js",
     "theme/js/lunr.stemmer.support.js",
+    "theme/js/lunr.multi.js",
     "theme/js/lunr.ru.js",
     "theme/js/mark.min.js",
     "theme/js/searcher.js"
