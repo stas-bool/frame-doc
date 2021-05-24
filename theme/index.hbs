@@ -272,20 +272,20 @@
         <script src="{{ path_to_root }}theme-tomorrow_night.js" type="text/javascript" charset="utf-8"></script>
         {{/if}}
 
+        <!-- Custom JS scripts -->
+        {{#each additional_js}}
+            <script type="text/javascript" src="{{ ../path_to_root }}{{this}}"></script>
+        {{/each}}
+
         {{#if search_js}}
-        <script src="{{ path_to_root }}elasticlunr.min.js" type="text/javascript" charset="utf-8"></script>
-        <script src="{{ path_to_root }}mark.min.js" type="text/javascript" charset="utf-8"></script>
-        <script src="{{ path_to_root }}searcher.js" type="text/javascript" charset="utf-8"></script>
+<!--        <script src="{{ path_to_root }}elasticlunr.min.js" type="text/javascript" charset="utf-8"></script>-->
+<!--        <script src="{{ path_to_root }}mark.min.js" type="text/javascript" charset="utf-8"></script>-->
+<!--        <script src="{{ path_to_root }}searcher.js" type="text/javascript" charset="utf-8"></script>-->
         {{/if}}
 
         <script src="{{ path_to_root }}clipboard.min.js" type="text/javascript" charset="utf-8"></script>
         <script src="{{ path_to_root }}highlight.js" type="text/javascript" charset="utf-8"></script>
         <script src="{{ path_to_root }}book.js" type="text/javascript" charset="utf-8"></script>
-
-        <!-- Custom JS scripts -->
-        {{#each additional_js}}
-        <script type="text/javascript" src="{{ ../path_to_root }}{{this}}"></script>
-        {{/each}}
 
         {{#if is_print}}
         {{#if mathjax_support}}

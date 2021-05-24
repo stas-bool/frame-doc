@@ -9,4 +9,13 @@ src = "src"
 enable = false
 
 [output.html.search]
-enable = false
+enable = true
+
+[output.html]
+additional-js = [
+    "theme/js/elasticlunr.js",
+    "theme/js/lunr.stemmer.support.js",
+    "theme/js/lunr.ru.js",
+    "theme/js/mark.min.js",
+    "theme/js/searcher.js"
+]
