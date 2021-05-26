@@ -21,17 +21,18 @@
 <div class="text-center">
 	<figure class="figure">
 		<a href="./images/rules-example.png" target="_blank">
-			<img src="./images/rules-example.png" class="figure-img img-fluid rounded" alt="rules-example">
+			<img src="./images/rules-example.png" class="figure-img img-fluid rounded" alt="rules-example" style="width:500px;">
 		</a>
 		<figcaption class="figure-caption text-center">Пример настройки правил</figcaption>
 	</figure>
 </div>
 
 В примере выше:<br>
-- Роли ***novice*** и ***unregistered*** будут добавлены новичкам сервера, но только роль ***unregistered*** будет снята после регистрации
-- Также после регистрации добавится роль ***after_reg***
-- Если человек состоит в Bungie клане ***Frame.vg***, то он получит роль ***frame.vg***
-- Если человек не состоит в клане ***Frame.vg***, то роль ***frame.vg***  не будет добавлена
+- Роли <span style="color: #2ecc71">**novice**</span> и <span style="color: #e67e22">**unregistered**</span> будут добавлены новичкам сервера, но только роль <span style="color: #e67e22">**unregistered**</span> будет снята после регистрации
+- Также после регистрации добавится роль <span style="color: #3498db">**after_reg**</span>
+- Если человек состоит в Bungie клане **Frame.vg**, то он получит роль <span style="color: #f1c40f">**tester**</span>
+- Если человек не состоит в клане **Frame.vg**, то роль <span style="color: #f1c40f">**tester**</span> не будет добавлена
+- Если у человека есть роль <span style="color: #f1c40f">**tester**</span> и он не состоит в клане **Frame.vg**, то после регистрации роль будет снята
 
 ## Команда !обновить-роли
 Если после регистрации или смены клана роли долго не обновляются, воспользуйся командой `!обновить-роли`. Администратор может обновить роли другому члену сервера с помощью команды `!обновить-роли @Nickname`.
