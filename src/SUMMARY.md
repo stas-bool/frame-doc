@@ -8,8 +8,11 @@
 - [Регистрация](./register.md)
 - [Статистика сборов](./statistic.md)
 - [Таблица](./table.md)
-- [Отслеживание кланов Bungie](./bungie-clans.md)
-- [Раздача ролей](./role-rules.md)
+  
+- [Настройка бота]()
+  - [Основные настройки](./main-settins.md)
+  - [Отслеживание кланов Bungie](./bungie-clans.md)
+  - [Раздача ролей](./role-rules.md)
 ***
 [FAQ](./faq.md)  
 [TODO](./todo.md)  
