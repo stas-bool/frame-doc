@@ -5,6 +5,9 @@ language = "ru"
 multilingual = false
 src = "src"
 
+[output.html]
+google-analytics = "G-92XE0TFE7Y"
+
 [output.html.print]
 enable = false
 
