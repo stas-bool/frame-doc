@@ -1,5 +1,5 @@
 # Отслеживание кланов Bungie
-В [настройках бота](https://frame.vg/bot-settings), на вкладке "Кланы" можно задать кланы Bungie которые будут отслеживаться.
+В [настройках бота](https://frame-b.ru/bot-settings), на вкладке "Кланы" можно задать кланы Bungie которые будут отслеживаться.
 
 <div class="text-center">
 	<figure class="figure">

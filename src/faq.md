@@ -3,8 +3,8 @@
 Пока здесь пусто.
 
 [comment]: <> (### Как помочь материально?)
-[comment]: <> ([https://frame.vg/donate]&#40;https://frame.vg/donate&#41;)
+[comment]: <> ([https://frame-b.ru/donate]&#40;https://frame-b.ru/donate&#41;)
 
 [comment]: <> (### Как помочь в разработке?)
 [comment]: <> (На данный момент помощь в разработке не требуется. )
-[comment]: <> (Но ты можешь написать через [форму]&#40;https://frame.vg/contact&#41;, когда придет время, я с тобой свяжусь.)
+[comment]: <> (Но ты можешь написать через [форму]&#40;https://frame-b.ru/contact&#41;, когда придет время, я с тобой свяжусь.)

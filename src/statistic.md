@@ -1,5 +1,5 @@
 # Статистика сборов
-На странице "<a href="https://frame.vg/clan-stats" target="_blank">Статистика клана</a>" можно найти статистику по собранным через бота рейдам.<br>
+На странице "<a href="https://frame-b.ru/clan-stats" target="_blank">Статистика клана</a>" можно найти статистику по собранным через бота рейдам.<br>
 <div class="text-center">
 	<figure class="figure">
 		<a href="./images/stats.png" target="_blank">

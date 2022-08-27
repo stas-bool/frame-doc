@@ -1,2 +1,2 @@
 # frame-doc
-Документация для Discord бота https://frame.vg, которая расположенна [здесь](https://docs.frame.vg).
+Документация для Discord бота [frame-b.ru](https://frame-b.ru/), которая расположена [здесь](https://www.docs.frame-b.ru/).

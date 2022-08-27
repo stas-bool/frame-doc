@@ -13,7 +13,7 @@
 		<figcaption class="figure-caption text-center">Форма</figcaption>
 	</figure>
 </div>
-После регистрации человек попадает в таблицу, доступную по <a href="https://frame.vg/members" target="_blank">ссылке</a>.<br>
+После регистрации человек попадает в таблицу, доступную по <a href="https://frame-b.ru/members" target="_blank">ссылке</a>.<br>
 Данные указанные в форме будут в таблице.<br>
 Таблицу могут просматривать только зарегистрированные члены discord сервера.<br>
 У каждого сервера своя таблица.<br>
